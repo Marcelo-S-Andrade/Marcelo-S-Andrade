@@ -1,18 +1,24 @@
-### Hi there 👋
+### _Olá ....  Posso ajudar em algo?_  👋
 
 
- 🔭 Atuo no seguimento de  consutoria, implantação e customização do ERP de Gestão de Pessoas - SENIOR X, como como consultor credenciado - Senior Sistemas. fornrcido prla Senior Sistemasdesenvilvimento de Atuaçmente alocado na implantação dos módulos do ERP de Gestão de Pessoas Amazonas Energia e Roraima Energia. 
- 🌱 Estudando elasticsearch
- 👯 I’m looking to collaborate on ...
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
- 📫 How to reach me: ...
- 😄 Pronouns: ...
- ⚡ Fun fact: ...
+  * Atuo no seguimento de  consutoria, implantação e customização do ERP de [**Gestão de Pessoas - SENIOR X**](https://seniorxstore.senior.com.br/), como consultor credenciado [**Senior Sistemas**](https://www.senior.com.br/).<br> 
+ * Estudando [**Elasticsearch**](https://www.elastic.co/pt/elasticsearch/) e [**Terraform**](https://www.terraform.io/). <br> 
+ * Projeto atual - Implantação dos módulos do ERP de Gestão de Pessoas - Amazonas Energia e Roraima Energia.<br>
+ * Desenvolvedor e consultor ávido por conhecimento e ensinar o pouco que sabe....
+* Tabalhando na [**Service Channel Information Technology**](https://servicechannel.com.br/).
 
-<!--
-**Marcelo-S-Andrade/Marcelo-S-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code> 
+<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code> 
+<code><img height="20" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+</div>
 
--->
+  | <a href="https://github.com/Marcelo-S-Andrade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Andrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>| <a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/> </a>|
+| ------------- | ------------- |
+  
