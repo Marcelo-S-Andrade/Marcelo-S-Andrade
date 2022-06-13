@@ -3,7 +3,7 @@
 
   * Atuo no seguimento de  consutoria, implantação e customização do ERP de [**Gestão de Pessoas - SENIOR X**](https://seniorxstore.senior.com.br/), como consultor credenciado [**Senior Sistemas**](https://www.senior.com.br/).<br> 
  * Estudando [**Elasticsearch**](https://www.elastic.co/pt/elasticsearch/) e [**Terraform**](https://www.terraform.io/). <br> 
- * Projeto atual - Implantação dos módulos do ERP de Gestão de Pessoas - Amazonas Energia e Roraima Energia.<br>
+ * Projeto atual - Implantação dos módulos do ERP de Gestão de Pessoas - [**Produtiva Sementes**](https://www.sementesprodutiva.com.br/).<br>
  * Desenvolvedor e consultor ávido por conhecimento e ensinar o pouco que sabe....
 * Tabalhando na [**Service Channel Information Technology**](https://servicechannel.com.br/).
 
