@@ -27,7 +27,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank"> <img src="https://img.icons8.com/nolan/64/xml.png" alt="XML" width="48" height="48"/> </a> 
     <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mssql.png"/> </a>
-    <a href="https://pypi.org/project/opencv-python/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv" width="40" height="40"/> </a>
+    <a href="[https://pypi.org/projec/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" alt="opencv" width="40" height="40"/> </a>
 </p>
 
 
