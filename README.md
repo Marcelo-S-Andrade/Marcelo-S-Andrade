@@ -29,6 +29,11 @@
     <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mssql.png"/> </a>
     <a href="[https://pypi.org/projec/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" alt="opencv" width="40" height="40"/> </a>
 </p>
+    <a href="https://github.com/jupyter/notebook/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="opencv" width="40" height="40"/> </a>
+    <a href="https://github.com/postgres/postgres" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/> </a>
+    <a href="https://www.adobe.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/> </a>
+    <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank"><img src="https://www.flaticon.com/free-icon/sql-server_5968364"/> </a>
+    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mssql.png"/> </a>
 
 
 <div align="center">
