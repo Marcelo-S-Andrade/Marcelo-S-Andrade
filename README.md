@@ -31,7 +31,7 @@
     <a href="https://github.com/postgres/postgres" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" width="45" height="45"/> </a>
     <a href="https://www.adobe.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" width="45" height="45"/> </a>
     <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"alt="5968364" width="45" height="45"/></a>
- </p>
+    <a href="https://github.com/dev-senior-com-br" target="_blank"><img src="https://github.com/llutti/vscode-language-lsp/raw/master/images/icon.png" alt="icon" width="45" height="45"/></a> </p>
 
 
  |<a href="https://github.com/Marcelo-S-Andrade">
