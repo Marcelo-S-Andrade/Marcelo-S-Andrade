@@ -15,20 +15,18 @@
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
-    <a href="https://spring.io/projects/wordpress" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a> 
+    <a href="https://spring.io/projects/wordpress" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a> 
     <a style="padding-right:8px;" href="https://artifical intelligence/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png"/> </a>
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank"> <img src="https://img.icons8.com/nolan/64/xml.png" alt="XML" width="48" height="48"/> </a> 
-    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/adobe-xd.png"/> </a>
+    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mssql.png"/> </a>
     <a href="https://pypi.org/project/opencv-python/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="opencv" width="40" height="40"/> </a>
 </p>
 
