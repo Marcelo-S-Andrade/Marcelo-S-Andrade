@@ -25,26 +25,14 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank"> <img src="https://img.icons8.com/nolan/64/xml.png" alt="XML" width="48" height="48"/> </a> 
-    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mssql.png"/> </a>
-    <a href="[https://pypi.org/projec/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" alt="opencv" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank"> <img src="https://img.icons8.com/nolan/64/xml.png" alt="XML" width="48" height="48"/> </a>
+    <a href="[https://pypi.org/projec/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" alt="graphql" width="40" height="40"/> </a>
 </p>
-    <a href="https://github.com/jupyter/notebook/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="opencv" width="40" height="40"/> </a>
-    <a href="https://github.com/postgres/postgres" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/> </a>
-    <a href="https://www.adobe.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/> </a>
-    <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank"><img src="https://www.flaticon.com/free-icon/sql-server_5968364"/> </a>
-    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mssql.png"/> </a>
+    <a href="https://github.com/jupyter/notebook/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter-notebook" width="40" height="40"/> </a>
+    <a href="https://github.com/postgres/postgres" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" width="45" height="45"/> </a>
+    <a href="https://www.adobe.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" width="45" height="45"/> </a>
+    <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"alt="5968364" width="45" height="45"/> </a>
 
-
-<div align="center">
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code> 
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code> 
-<code><img height="20" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-</div>
 
   | <a href="https://github.com/Marcelo-S-Andrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-S-Andrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>| <a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/> </a>|
