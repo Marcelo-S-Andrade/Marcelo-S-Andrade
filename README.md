@@ -4,11 +4,11 @@
 
 ## 🙋‍♂️ About Me
 
-  * Atuo no seguimento de  consutoria, implantação e customização do ERP de [**Gestão de Pessoas - SENIOR X**](https://seniorxstore.senior.com.br/), como consultor credenciado [**Senior Sistemas**](https://www.senior.com.br/).<br> 
- * Estudando [**Elasticsearch**](https://www.elastic.co/pt/elasticsearch/) e [**Terraform**](https://www.terraform.io/). <br> 
- * Projeto atual - Implantação dos módulos do ERP de Gestão de Pessoas - [**Produtiva Sementes**](https://www.sementesprodutiva.com.br/).<br>
- * Desenvolvedor e consultor ávido por conhecimento e ensinar o pouco que sabe....
-* Tabalhando na [**Service Channel Information Technology**](https://servicechannel.com.br/).
+  * I work in the follow-up of consulting, implementation and customization of the ERP of People Management - HCM SENIOR X, as an accredited consultant [**Senior Sistemas**](https://www.senior.com.br/).<br> 
+ * Studying [**Elasticsearch**](https://www.elastic.co/pt/elasticsearch/) and [**Terraform**](https://www.terraform.io/). <br> 
+ * Current project - Implantação dos módulos do ERP de Gestão de Pessoas - [**Produtiva Sementes**](https://www.sementesprodutiva.com.br/).<br>
+ * Developer and consultant eager for knowledge and teach what little you know....
+ * Tabalhando in [**Service Channel Information Technology**](https://servicechannel.com.br/).
 
 ## 🚀 Languages and Tools:
 
