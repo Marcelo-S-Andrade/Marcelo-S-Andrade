@@ -27,11 +27,11 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank"> <img src="https://img.icons8.com/nolan/64/xml.png" alt="XML" width="48" height="48"/> </a>
     <a href="[https://pypi.org/projec/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" alt="graphql" width="40" height="40"/> </a>
-</p>
     <a href="https://github.com/jupyter/notebook/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter-notebook" width="40" height="40"/> </a>
     <a href="https://github.com/postgres/postgres" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" width="45" height="45"/> </a>
     <a href="https://www.adobe.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" width="45" height="45"/> </a>
-    <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"alt="5968364" width="45" height="45"/> </a>
+    <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"alt="5968364" width="45" height="45"/></a>
+ </p>
 
 
   | <a href="https://github.com/Marcelo-S-Andrade">
